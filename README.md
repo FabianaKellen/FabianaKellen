@@ -1,4 +1,4 @@
-# ✨ Fabiana Diniz
+# ✨ Fabiana Kellen
 
 **`Desenvolvedora Front-End`**
 
