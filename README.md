@@ -1,6 +1,6 @@
 # ✨ Fabiana Kellen
 
-**`Desenvolvedora back-end`**
+**`Desenvolvedora Front-End`**
 
 Me chamo Fabiana Kellen, tenho 18 anos e sou natural de São José dos Campos/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVAP (Universidade do Vale do Paraíba).
 
